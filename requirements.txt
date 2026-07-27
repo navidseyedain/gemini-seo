@@ -1,0 +1,13 @@
+google-genai
+python-dotenv
+httpx
+beautifulsoup4
+rich
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+google-api-python-client
+google-auth
+firecrawl-py
+duckduckgo-search
